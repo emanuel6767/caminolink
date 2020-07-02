@@ -5,5 +5,4 @@ header("Location: http://morenotamuyhot.blogspot.com/");
 //header("Location: https://www.google.com/");
 
 
-exit;
 ?>
